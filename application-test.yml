@@ -1,3 +1,5 @@
+server:
+  port: 1002
 
-my = two
-message = hi i is two
+
+version: test
